@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  destination: MyString
+  price: 9.99
+  description: MyText
+  published_at: 2020-04-27 14:43:36
+  id_agency: 1
+
+two:
+  destination: MyString
+  price: 9.99
+  description: MyText
+  published_at: 2020-04-27 14:43:36
+  id_agency: 1

@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  date_departure: 2020-04-27 14:43:47
+  return_date: 2020-04-27 14:43:47
+  id_trip: 1
+  id_user: 1
+
+two:
+  date_departure: 2020-04-27 14:43:47
+  return_date: 2020-04-27 14:43:47
+  id_trip: 1
+  id_user: 1
